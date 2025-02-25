@@ -33,10 +33,10 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 *[Healthcare Accessibility Platform](https://github.com/div9ya/caresathi)*
+🔹 *[Healthcare Accessibility Platform](https://github.com/div9ya/caresathi/master)*
 > A platform that improves healthcare accessibility with *live emergency alerts, **QR-based health records, and **AI-powered disease prediction*.
 
-🔹 *[Influencer-Brand Collaboration Platform](https://github.com/div9ya/influenzio2)*
+🔹 *[Influencer-Brand Collaboration Platform](https://github.com/div9ya/influenzio2/master)*
 > A platform connecting *influencers & brands* for impactful marketing campaigns.
 
 ---
@@ -52,6 +52,7 @@
 "The best way to predict the future is to create it." – Alan Kay  
 
 💡 *Tech excites me because: I love the idea of building **AI-driven, scalable solutions* that make life easier!
+
 😁  When I’m not coding, I enjoy playing **badminton** or going on long walks! 🚶‍♀️
 
 ---
