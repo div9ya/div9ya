@@ -1,16 +1,22 @@
-## Hi 👋 I'm Divya Verma !😊
+##                                                                                     Hi 👋 I'm Divya Verma !😊
 
-<!--
-**div9ya/div9ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Divya Verma! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full-stack developer passionate about **AI, Blockchain, and Healthcare Tech**.
+- 🔬 Currently building **CareSathi**, an AI-powered healthcare platform.
+- 🏆 Finalist at **HackTU 6.0**, working with NLP, MongoDB, and Flask.
+- 🤝 Open to collaborations on **innovative healthcare and AI projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, Node.js, HTML, CSS
+- **Frameworks:** Flask, Express.js, Streamlit
+- **Databases:** MongoDB, Firebase
+- **Tools:** Git, Docker, Postman
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=div9ya&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/div9ya)
