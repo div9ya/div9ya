@@ -36,17 +36,14 @@
 🔹 *[Healthcare Accessibility Platform](https://github.com/div9ya/caresathi)*
 > A platform that improves healthcare accessibility with *live emergency alerts, **QR-based health records, and **AI-powered disease prediction*.
 
-🔹 *[Interactive Accessibility Dashboard](https://github.com/div9ya/accessibility-dashboard)*
-> A *web extension* that helps developers improve *website accessibility* with real-time feedback and tutorials.
-
-🔹 *[Influencer-Brand Collaboration Platform](https://github.com/div9ya/influencer-hub)*
+🔹 *[Influencer-Brand Collaboration Platform](https://github.com/div9ya/influenzio2)*
 > A platform connecting *influencers & brands* for impactful marketing campaigns.
 
 ---
 
 ## 📖 Currently Learning  
 - 🤖 *Advanced Machine Learning & AI applications*
-- 🔗 *Blockchain for secure medical data storage*
+- 🔗 *Learning DSA and its concepts*
 - 🌍 *Open-source contributions & Web accessibility standards*
 
 ---
@@ -55,6 +52,7 @@
 "The best way to predict the future is to create it." – Alan Kay  
 
 💡 *Tech excites me because: I love the idea of building **AI-driven, scalable solutions* that make life easier!
+😁  When I’m not coding, I enjoy playing **badminton** or going on long walks! 🚶‍♀️
 
 ---
 
