@@ -33,10 +33,10 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 *[Healthcare Accessibility Platform](https://github.com/div9ya/caresathi/master)*
+🔹 *[Healthcare Accessibility Platform](https://github.com/div9ya/caresathi/tree/master)*
 > A platform that improves healthcare accessibility with *live emergency alerts, **QR-based health records, and **AI-powered disease prediction*.
 
-🔹 *[Influencer-Brand Collaboration Platform](https://github.com/div9ya/influenzio2/master)*
+🔹 *[Influencer-Brand Collaboration Platform](https://github.com/div9ya/influenzio2/tree/master)*
 > A platform connecting *influencers & brands* for impactful marketing campaigns.
 
 ---
